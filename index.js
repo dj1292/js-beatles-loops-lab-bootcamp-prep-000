@@ -20,7 +20,7 @@ var i = 0
 
 function iLoveTheBeatles(num) {
   var arr = []
-  
+  var i = 0
   function incrementVariable() {
     i = i + 1
     return i

@@ -10,9 +10,9 @@ function theBeatlesPlay(arr1,arr2) {
 
 function johnLennonFacts(arr) {
   var newArr = []
-var i = arr[i]
+var i = 0
   while (i < arr.length) {
-    newArr.push(`${i}!!!`)
+    newArr.push(`${arr[i]}!!!`)
    i += 1
   }
   return newArr 

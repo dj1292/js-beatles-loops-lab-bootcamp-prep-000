@@ -12,7 +12,7 @@ function johnLennonFacts(arr) {
   var newArr = []
 var i = 0
   while (i < arr.length) {
-   newArr >> `${i}!!!`
+   newArr << `${i}!!!`
    i += 1
   }
   return newArr 

@@ -12,12 +12,14 @@ function johnLennonFacts(arr) {
   var newArr = []
 var i = 0
   while (i < arr.length) {
-   newArr << `${i}!!!`
+    newArr.push(`${i}!!!`)
    i += 1
   }
   return newArr 
 }
 
-
+function iLoveTheBeatles(num) {
+  
+}
 
 
